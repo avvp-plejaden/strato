@@ -1,4 +1,2 @@
 # strato
 Stratosphaerenballon
-bliblablub
-Blubb
