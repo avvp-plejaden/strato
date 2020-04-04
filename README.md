@@ -1,4 +1,6 @@
 # strato
 Stratosphaerenballon
-bliblablub
-Blubb
+
+## Schaltpläne
+Schaltpläne werden mit KiCAD erstellt. 
+https://www.kicad-pcb.org/
